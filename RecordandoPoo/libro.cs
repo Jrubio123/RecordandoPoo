@@ -10,13 +10,16 @@ namespace programa_1
     {
 
         private int ISBN;
-        private string titulos;
+        private string titulo;
         private string autor;
         private int numPaginas;
-
-        public libro()
+    
+        public libro(int isbn, string titulo, string autor, int numPaginas)
         {
-              
+            this.ISBN = isbn;
+            this.titulo = titulo;
+            this.autor = autor;
+            this.numPaginas = numPaginas;
         }
 
     }
