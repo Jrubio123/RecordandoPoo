@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa_1", "RecordandoPoo\programa_1.csproj", "{E0A6B04F-FDD5-48D5-86AA-CC488E4E5578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "programa_1", "RecordandoPoo\programa_1.csproj", "{E0A6B04F-FDD5-48D5-86AA-CC488E4E5578}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa_2", "Programa_2\Programa_2.csproj", "{63C81A01-437E-4F87-9F46-BA4FAE89C3AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programa_2", "Programa_2\Programa_2.csproj", "{63C81A01-437E-4F87-9F46-BA4FAE89C3AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa_3", "programa_3\programa_3.csproj", "{41A5E6E8-2BE4-49A6-B1EA-A550686AD04A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{63C81A01-437E-4F87-9F46-BA4FAE89C3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63C81A01-437E-4F87-9F46-BA4FAE89C3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63C81A01-437E-4F87-9F46-BA4FAE89C3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41A5E6E8-2BE4-49A6-B1EA-A550686AD04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A5E6E8-2BE4-49A6-B1EA-A550686AD04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A5E6E8-2BE4-49A6-B1EA-A550686AD04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A5E6E8-2BE4-49A6-B1EA-A550686AD04A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
